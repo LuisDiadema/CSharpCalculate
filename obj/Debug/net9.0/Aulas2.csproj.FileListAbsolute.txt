@@ -1,0 +1,14 @@
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\bin\Debug\net9.0\Aulas2.exe
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\bin\Debug\net9.0\Aulas2.deps.json
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\bin\Debug\net9.0\Aulas2.runtimeconfig.json
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\bin\Debug\net9.0\Aulas2.dll
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\bin\Debug\net9.0\Aulas2.pdb
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\obj\Debug\net9.0\Aulas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\obj\Debug\net9.0\Aulas2.AssemblyInfoInputs.cache
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\obj\Debug\net9.0\Aulas2.AssemblyInfo.cs
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\obj\Debug\net9.0\Aulas2.csproj.CoreCompileInputs.cache
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\obj\Debug\net9.0\Aulas2.dll
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\obj\Debug\net9.0\refint\Aulas2.dll
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\obj\Debug\net9.0\Aulas2.pdb
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\obj\Debug\net9.0\Aulas2.genruntimeconfig.cache
+C:\Users\Luis Gustavo\Desktop\Programacao\C#\Aulas2\obj\Debug\net9.0\ref\Aulas2.dll
